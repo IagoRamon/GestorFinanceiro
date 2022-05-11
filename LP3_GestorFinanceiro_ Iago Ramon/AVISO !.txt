@@ -1,0 +1,5 @@
+O código esta classificando no Orçamento uma situação de "ruim", 
+quando a despesa já é acima do valor do orçamento do mês e ano.
+Pensei deste modo para as outras variáveis também, podendo ser "bom" ou "médio" o status.
+
+Abraços, Iago Ramon.

@@ -1,0 +1,2 @@
+99819;2022;Janeiro;Conta de luz;96.0;
+91874;2021;Janeiro;luz;66.0;

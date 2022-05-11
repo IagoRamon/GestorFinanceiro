@@ -1,0 +1,2 @@
+57507;2021;Janeiro;Coca cola;6.0;CARTAO;
+20356;2021;Janeiro;financeiro;10000.0;DINHEIRO;
